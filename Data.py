@@ -25,7 +25,7 @@ Use below buttons to learn more !
             InlineKeyboardButton("How to Use ❓", callback_data="help"),
             InlineKeyboardButton("🔹About🔹", callback_data="about")
         ],
-        [InlineKeyboardButton("🤖 More Amazing bots 🤖", url="https://t.me/Groupdcbots")],
+        [InlineKeyboardButton("🔰 Updates Channel 🔰", url="https://t.me/Groupdcbots")],
         [InlineKeyboardButton("👥 Support Group 👥", url="https://t.me/Groupdc")],
     ]
 
@@ -61,6 +61,8 @@ Source Code : [Click Here](https://github.com/Selfie-bd/ID-Bot)
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
+
+Updates Channel : @Groupdcbots
 
 Developer : @SelfieBd
     """
