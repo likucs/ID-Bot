@@ -8,27 +8,25 @@ Hey {}
 
 Welcome to {}
 
-Using this bot you can get id of any group, user, bot, channel and even stickers with inline mode.
+Using this bot you can get id of any group, user, bot, channel and even stickers. Also inline mode.
 
 Use below buttons to learn more !
-
-By @StarkBots
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton(text="🔸Return🔸", callback_data="home")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("❗ Bot Status and More Bots ❗", url="https://t.me/groupdcbots/7286")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("How to Use ❓", callback_data="help"),
+            InlineKeyboardButton("🔹About🔹", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("🤖 More Amazing bots 🤖", url="https://t.me/Groupdcbots")],
+        [InlineKeyboardButton("👥 Support Group 👥", url="https://t.me/Groupdc")],
     ]
 
     # Help Message
@@ -56,13 +54,13 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to get id of any user, group, bot, channels and even stickers. by @StarkBots
+A telegram bot to get id of any user, group, bot, channels and even stickers. by @GroupDcBots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ID-Bot)
+Source Code : [Click Here](https://github.com/Selfie-bd/ID-Bot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @SelfieBd
     """
