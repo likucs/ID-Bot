@@ -8,5 +8,5 @@ async def welcome(bot, msg):
     for member in members:
         if member.id == bot_id:
             await msg.reply(
-                f"Thanks for adding me here! \n\nThis group's ID is `{msg.chat.id}`"
+                f"Thanks for adding me here!💛 \n\n🔹This is Your group's ID : `{msg.chat.id}`"
             )
