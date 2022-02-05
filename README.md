@@ -1,8 +1,6 @@
-# ID Bot [@TheIdentityBot](https://t.me/TheIdentityBot)
+# ID Bot [@IdGetDcBot](https://t.me/IdGetDcBot)
 
 > A star ⭐ from you means a lot to us!
-
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/ID-Bot"><img src="https://telegra.ph/file/784c14c76533f944ae9b0.jpg" width="2000"></a></p>
 
 Telegram bot to get id of any user, group, bot, channels and even stickers.
 
@@ -12,7 +10,7 @@ Telegram bot to get id of any user, group, bot, channels and even stickers.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/ID-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfie-bd/ID-Bot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
