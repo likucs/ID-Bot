@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 @Client.on_message(filters.private & filters.forwarded)
 async def forwarded(_, msg):
     if msg.forward_from:
-        text = "Forward detected! \n\n"
+        text = "Forward detected❗ \n\n"
         if msg.forward_from.is_bot:
             text += "**Bot**"
         else:
@@ -23,7 +23,7 @@ async def forwarded(_, msg):
                 quote=True,
             )
         else:
-            text = f"Forward Detected. \n\n"
+            text = f"Forward Detected❗ \n\n"
             if msg.forward_from_chat.type == "channel":
                 text += "**Channel**"
             if msg.forward_from_chat.type == "supergroup":
