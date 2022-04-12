@@ -15,18 +15,18 @@ Use below buttons to learn more !
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(text="🔸Return🔸", callback_data="home")],
+        [InlineKeyboardButton(text="🔸ʙᴀᴄᴋ🔸", callback_data="home")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("Owner 👑", url="https://t.me/iAmLiKu1")],
+        [InlineKeyboardButton("ᴏᴡɴᴇʀ 👑", url="https://t.me/iAmLiKu1")],
         [
-            InlineKeyboardButton("How to Use ❓", callback_data="help"),
-            InlineKeyboardButton("🔹About🔹", callback_data="about")
+            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ❓", callback_data="help"),
+            InlineKeyboardButton("🔹Aʙᴏᴜᴛ🔹", callback_data="about")
         ],
-        [InlineKeyboardButton("🔰 Updates Channel 🔰", url="https://t.me/cs_cloud")],
-        [InlineKeyboardButton("👥 Support Group 👥", url="https://t.me/discuss_group_cs")],
+        [InlineKeyboardButton("🔰 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔰", url="https://t.me/cs_cloud")],
+        [InlineKeyboardButton("👥 sᴜᴘᴘʀᴏᴛ ɢʀᴏᴜᴘ 👥", url="https://t.me/discuss_group_cs")],
     ]
 
     # Help Message
@@ -54,7 +54,7 @@ Use below buttons to learn more !
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to get id of any user, group, bot, channels and even stickers. by @GroupDcBots
+A telegram bot to get id of any user, group, bot, channels and even stickers. by @cs_cloud
 
 Owner Of bot : [Cs❥︎Lɪᴋᴜ](https://t.me/iAmLiKu1)
 
