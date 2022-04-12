@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/ID-Bot",
+  "repository": "https://github.com/likucs/ID-Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
