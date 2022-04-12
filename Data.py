@@ -20,13 +20,13 @@ Use below buttons to learn more !
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("❗ Bot Status and More Bots ❗", url="https://t.me/groupdcbots/7286")],
+        [InlineKeyboardButton("Owner 👑", url="https://t.me/cs_bot")],
         [
             InlineKeyboardButton("How to Use ❓", callback_data="help"),
             InlineKeyboardButton("🔹About🔹", callback_data="about")
         ],
-        [InlineKeyboardButton("🔰 Updates Channel 🔰", url="https://t.me/Groupdcbots")],
-        [InlineKeyboardButton("👥 Support Group 👥", url="https://t.me/Groupdc")],
+        [InlineKeyboardButton("🔰 Updates Channel 🔰", url="https://t.me/cs_bot")],
+        [InlineKeyboardButton("👥 Support Group 👥", url="https://t.me/discuss_group_cs")],
     ]
 
     # Help Message
@@ -56,13 +56,13 @@ Use below buttons to learn more !
 
 A telegram bot to get id of any user, group, bot, channels and even stickers. by @GroupDcBots
 
-Source Code : [Click Here](https://github.com/Selfie-bd/ID-Bot)
+Owner Of bot : [Cs❥︎Lɪᴋᴜ](https://t.me/iAmLiKu1)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Updates Channel : @Groupdcbots
+Updates Channel : @cs_cloud
 
-Developer : @SelfieBd
+Developer : @iAmLiKu1
     """
