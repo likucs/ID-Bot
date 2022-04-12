@@ -20,12 +20,12 @@ Use below buttons to learn more !
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("Owner 👑", url="https://t.me/cs_bot")],
+        [InlineKeyboardButton("Owner 👑", url="https://t.me/iAmLiKu1")],
         [
             InlineKeyboardButton("How to Use ❓", callback_data="help"),
             InlineKeyboardButton("🔹About🔹", callback_data="about")
         ],
-        [InlineKeyboardButton("🔰 Updates Channel 🔰", url="https://t.me/cs_bot")],
+        [InlineKeyboardButton("🔰 Updates Channel 🔰", url="https://t.me/cs_cloud")],
         [InlineKeyboardButton("👥 Support Group 👥", url="https://t.me/discuss_group_cs")],
     ]
 
